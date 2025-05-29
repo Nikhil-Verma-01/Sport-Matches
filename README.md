@@ -74,10 +74,10 @@ Once the application is running:
 Here are some screenshots of the application in action:
 
 **Basketball Matches View:**
-![Baketball Matches View](https://drive.google.com/file/d/1CzhS8MX2rndU7-qmFujjf5l3f_nTz4ZO/view?usp=sharing)
+![Baketball Matches View](https://drive.google.com/uc?export=view&id=1CzhS8MX2rndU7-qmFujjf5l3f_nTz4ZO)
 
 **Soccer Matches View:**
-![Soccer Matches View](https://drive.google.com/file/d/1TdP4rlp64Jr5VMilVV8iokPUnm0bfgTK/view?usp=sharing)
+![Soccer Matches View](https://drive.google.com/uc?export=view&id=1TdP4rlp64Jr5VMilVV8iokPUnm0bfgTK)
 
 ---
 
