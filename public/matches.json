@@ -1,0 +1,38 @@
+{
+    "events": [
+        {
+            "idEvent": "1",
+            "strHomeTeam": "Team A",
+            "strAwayTeam" : "Team B",
+            "dataEvent": "2025-06-10",
+            "strTime": "19:00:00 UTC",
+            "strSport": "Soccer"
+        },
+        {
+            "idEvent": "2",
+            "strHomeTeam": "Team C",
+            "strAwayTeam" : "Team D",
+            "dataEvent": "2025-06-11",
+            "strTime": "19:30:00 UTC",
+            "strSport": "Soccer"
+        },
+        {
+            "idEvent": "3",
+            "strHomeTeam": "Team X",
+            "strAwayTeam": "Team Y",
+            "dateEvent": "2025-06-12",
+            "strTime": "18:00:00 UTC",
+            "strSport": "Basketball"
+        },
+        {
+            "idEvent": "4",
+            "strHomeTeam": "Golden State",
+            "strAwayTeam": "Miami Heat",
+            "dateEvent": "2025-06-13",
+            "strTime": "20:00:00 UTC",
+            "strSport": "Basketball"
+        }
+
+
+    ]
+}

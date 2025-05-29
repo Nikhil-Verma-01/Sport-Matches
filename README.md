@@ -1,20 +1,28 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple React application designed to display a list of upcoming sports matches for a chosen sport (Soccer or Basketball). The application fetches match data and presents it in a clean, user-friendly interface.
 
 ## Available Scripts
 
-In the project directory, you can run:
+Dynamic Sport Selection: Easily switch between viewing Soccer and Basketball matches using a dropdown selector.
 
-### `npm start`
+Match Details: For each match, the application displays the two competing teams and the scheduled date and time.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Responsive Design: The layout is designed to be viewable on various screen sizes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Mock Data Integration: Uses a local mock API (matches.json) for reliable data display, bypassing common issues with external free sports APIs.
 
-### `npm test`
+## Technologies Used
+
+React: A JavaScript library for building user interfaces.
+
+HTML: For structuring the web content.
+
+CSS: For styling the application.
+
+JavaScript (ES6+): For application logic and interactivity.
+
+## Setup Instructions
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
