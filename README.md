@@ -73,11 +73,11 @@ Once the application is running:
 
 Here are some screenshots of the application in action:
 
-**Soccer Matches View:**
-![Soccer Matches View](https://placehold.co/600x400/E0E0E0/333333?text=Screenshot+of+Soccer+Matches)
-
 **Basketball Matches View:**
-![Basketball Matches View](https://placehold.co/600x400/E0E0E0/333333?text=Screenshot+of+Basketball+Matches)
+![Baketball Matches View](https://drive.google.com/file/d/1CzhS8MX2rndU7-qmFujjf5l3f_nTz4ZO/view?usp=sharing)
+
+**Soccer Matches View:**
+![Soccer Matches View](https://drive.google.com/file/d/1TdP4rlp64Jr5VMilVV8iokPUnm0bfgTK/view?usp=sharing)
 
 ---
 
