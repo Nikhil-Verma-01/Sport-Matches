@@ -30,7 +30,7 @@ To get this project up and running on your local machine, follow these steps:
     If you have the project as a repository, clone it:
 
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Nikhil-Verma-01/Sport-Matches.git
     cd sports-matches-app
     ```
 

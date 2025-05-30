@@ -2,24 +2,24 @@
     "events": [
         {
             "idEvent": "1",
-            "strHomeTeam": "Team A",
-            "strAwayTeam" : "Team B",
+            "strHomeTeam": "FC Barcelona",
+            "strAwayTeam" : "Real Madrid",
             "dataEvent": "2025-06-10",
             "strTime": "19:00:00 UTC",
             "strSport": "Soccer"
         },
         {
             "idEvent": "2",
-            "strHomeTeam": "Team C",
-            "strAwayTeam" : "Team D",
+            "strHomeTeam": "Manchester United",
+            "strAwayTeam" : "Liverpool FC",
             "dataEvent": "2025-06-11",
             "strTime": "19:30:00 UTC",
             "strSport": "Soccer"
         },
         {
             "idEvent": "3",
-            "strHomeTeam": "Team X",
-            "strAwayTeam": "Team Y",
+            "strHomeTeam": "The Echo",
+            "strAwayTeam": "Hoop Dreamers",
             "dateEvent": "2025-06-12",
             "strTime": "18:00:00 UTC",
             "strSport": "Basketball"
